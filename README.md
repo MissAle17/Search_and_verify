@@ -5,4 +5,4 @@ So much junk is available on the internet.  And while we have great resources av
 
 ## Process
 
-Using python and begining with some available libraries in SKlearn, I will start with making a word search that returns a full sentence.  Once complete the project will be reevaluated and next steps clarified.
+Using python and begining with some available libraries in ntlk, I will start with making a word search that returns a full sentence.  Once complete the project will be reevaluated and next steps clarified.
